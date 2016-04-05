@@ -11,3 +11,6 @@ Some goals of this project include:
   * Possibly run on a cron job, automatically updating.
   * Blog software?
 * Document all the available features.
+
+## PyPi
+The idea is to eventually get this on PyPi.
